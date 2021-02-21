@@ -1,2 +1,3 @@
 This is a book named "Artificial intelligence a modern approach by "Stuart J.Russell and Peter Norvig"
 You can get it in "pdfdrive.com"
+I will be uploading the files in order of chapters rather than individual problems.
